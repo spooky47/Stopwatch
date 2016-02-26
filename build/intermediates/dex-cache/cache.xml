@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Stopwatch2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Stopwatch2\app\build\intermediates\pre-dexed\debug\classes-6dd5097b54553f38a78af4d3aa107393edb3d3a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Stopwatch2\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-cf03a7a955f93c3161eb1a739d0a544f9828952f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Stopwatch2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Stopwatch2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-8d2d394ae7cc4a9de97a5ba9ab27ed07479bc5e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Stopwatch2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Stopwatch2\app\build\intermediates\pre-dexed\debug\classes-28941fd7986d30b71ad907cfa653a8c0bd2cabce.jar" />
+    </item>
+
+</items>
